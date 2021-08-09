@@ -19,3 +19,7 @@ https://gitcoin.co/issue/nervosnetwork/grants/6/100026212
 4. The Ethereum address that was checked (in text format).
 ---
 `0xD3Beb7eAB5eB754A974d883D69f5BC9A95B05B38`
+
+Bonus: Get SUDT ID
+---
+![](sudt-id.png) 
