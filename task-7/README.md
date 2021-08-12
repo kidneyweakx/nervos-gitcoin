@@ -5,17 +5,26 @@ https://gitcoin.co/issue/nervosnetwork/grants/8/100026214
 
 ### Task Submission
 1. Screenshots or video of your application running on Godwoken.
+---
 Youtube Video Link: https://youtu.be/GuXyKl0OZuU
 ![](screenshot.png)
 
 2. Link to the GitHub repository with your application which has been ported to Godwoken. This must be a different application than the one covered in this guide.
-
+---
 Github repo Link: https://github.com/kidneyweakx/blockchain-workshop/tree/nervos-hackthon
 
 3. If you deployed any smart contracts as part of this tutorial, please provide the transaction hash of the deployment transaction, the deployed contract address, and the ABI of the deployed smart contract. (Provide all in text format.)
+---
 
-Deployed contract address: `0x6f84dD255cd6111495dba53589885d279f7C9C28`
-Deploy transaction hash: `0x1f40dc9f06fb32cf030f6cafa84149ba21c12a7548c999af836611367fd1e912`
+Deployed contract address: 
+```{sh}
+0x6f84dD255cd6111495dba53589885d279f7C9C28
+```
+
+Deploy transaction hash: 
+```{sh}
+0x1f40dc9f06fb32cf030f6cafa84149ba21c12a7548c999af836611367fd1e912
+```
 
 ### ABI
 ```{json}
