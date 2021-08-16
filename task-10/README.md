@@ -6,7 +6,9 @@ https://gitcoin.co/issue/nervosnetwork/grants/11/100026217
 ### Task Submission
 1. A screenshot of the console output immediately after running the "unlock" command.
 ---
-![]()
+tx: `0x9245a19da1a191d31d488a317b1f6f2d3611d734602cccf7f2569587d06fdc8f`
+
+![](finish-withdraw.png)
 
 2. The Ethereum address that you've used for your Layer 2 account (in text format).
 ---
@@ -17,5 +19,8 @@ https://gitcoin.co/issue/nervosnetwork/grants/11/100026217
 `ckt1qyq2f89ggfsk8w83jxn3n3lpd06kd00m86psm9medn`
 
 
+### **P.S.** suggestion
+> request send : 2021/08/10 2AM(UTC) -> withdraw :2021/08/16 4PM(UTC)
 
+It spends me almost 7 days of waiting unlock the assets. I think wait to unlock assets from layer 2 cannot be satisfied to layer1 users. I hope there maybe can have some auto unlock assets bot (like liquidation bot) which can get some profit. Auto unlock assets can surely improve UX on L2 -> L1. 
 
